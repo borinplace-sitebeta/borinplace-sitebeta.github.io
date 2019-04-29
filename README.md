@@ -1,12 +1,15 @@
 # Welcome to Hacker Space Boring Place
 
+## Beta Site for test site changes
+
+URL: [http://borinplace-sitebeta.github.io](http://borinplace-sitebeta.github.io)
 
 ## Intro
 
 This is our public site hosted on GitHub Pages.
 
 Official URL of our website is:
-[https://www.boringplace.org](https://www.boringplace.org)
+[http://boringplace.org](http://boringplace.org)
 
 ## Build instructions
 
